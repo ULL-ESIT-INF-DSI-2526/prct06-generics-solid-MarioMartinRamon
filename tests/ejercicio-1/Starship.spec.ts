@@ -47,4 +47,4 @@ describe('Starship Collection', () => {
       'Starship Collection:\nName: X-Wing, Affiliation: Alianza Rebelde, Power Level: 7000, Year of Birth: 1977\n'
     );
   });
-}); 
+});
